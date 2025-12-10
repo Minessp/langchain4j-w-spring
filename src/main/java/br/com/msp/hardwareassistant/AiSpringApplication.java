@@ -1,4 +1,4 @@
-package br.com.msp.ai_spring;
+package br.com.msp.hardwareassistant;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
